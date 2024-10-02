@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 114.116.226.76:8848
+        password: ZhengJinWei123!
+  application:
+    name: server
+server:
+  port: 8082
